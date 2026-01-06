@@ -1,4 +1,5 @@
-﻿//---- Przykład: Adapter konwertujący interfejs
+﻿//---- Przykład: Adapter konwertujący interfejs (przykład z użyciem: Adapter obiektowy)
+// 
 
 /*
 Załóżmy, że mamy istniejący system do wysyłania powiadomień do użytkownika.
