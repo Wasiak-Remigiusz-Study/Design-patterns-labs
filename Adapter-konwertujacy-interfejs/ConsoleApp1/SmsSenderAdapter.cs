@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class SmsSenderAdapter : INotificationSender
+    public class SmsSenderAdapter : INotificationSender
     {
         private SmsSender _smsSender = new SmsSender();
         public void SendNotification(int userID, Notification notification)
